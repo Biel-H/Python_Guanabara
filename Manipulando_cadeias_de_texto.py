@@ -76,4 +76,4 @@
     print("""Bem vindos ao curso de python! 
     e as minhas anotações pessoais do curso 
     esse é um exemplo de texto quande que eu posso colocar em apenas um print""")
-    
+
