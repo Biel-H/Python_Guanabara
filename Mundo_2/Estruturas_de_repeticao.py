@@ -3,7 +3,7 @@
 # Assim ele ira repetir para sempre os comandos de "Passo", e para delimitar um limite e ele não acabar passando da laranja nós utilizaremos:
 
 # Laços de repetição
-# Laços de repetição ou interação, são basicamente os limitadores de um looping, por exemplo
+# Laços de repetição ou iteração, são basicamente os limitadores de um looping, por exemplo
 
 
 laço c intervalo(1 , 10)
